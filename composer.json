@@ -35,6 +35,7 @@
         "mediacurrent/mis_profile": "^2.0",
         "mediacurrent/mis_rain": "^2.0",
         "mediacurrent/rain_admin": "dev-master",
+        "mediacurrent/rain_gatsby": "^1.8",
         "mediacurrent/rain_theme": "dev-master",
         "oomphinc/composer-installers-extender": "^1.1",
         "webflo/drupal-finder": "^1.0.0",
