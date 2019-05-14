@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "0c59f124166b79f3ccad1439b29f78c9",
+    "content-hash": "759598fe1d71ade7eca984917e8a13b5",
     "packages": [
         {
             "name": "alchemy/zippy",
@@ -2006,6 +2006,57 @@
             "support": {
                 "source": "http://cgit.drupalcode.org/blazy",
                 "issues": "https://drupal.org/project/issues/blazy"
+            }
+        },
+        {
+            "name": "drupal/build_hooks",
+            "version": "2.1.0",
+            "source": {
+                "type": "git",
+                "url": "https://git.drupalcode.org/project/build_hooks.git",
+                "reference": "8.x-2.1"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://ftp.drupal.org/files/projects/build_hooks-8.x-2.1.zip",
+                "reference": "8.x-2.1",
+                "shasum": "dfc65d72dcb76298c44af05f67110e5bcf46a2f7"
+            },
+            "require": {
+                "drupal/core": "*"
+            },
+            "type": "drupal-module",
+            "extra": {
+                "branch-alias": {
+                    "dev-2.x": "2.x-dev"
+                },
+                "drupal": {
+                    "version": "8.x-2.1",
+                    "datestamp": "1552771684",
+                    "security-coverage": {
+                        "status": "covered",
+                        "message": "Covered by Drupal's security advisory policy"
+                    }
+                }
+            },
+            "notification-url": "https://packages.drupal.org/8/downloads",
+            "license": [
+                "GPL-2.0-or-later"
+            ],
+            "authors": [
+                {
+                    "name": "jmolivas",
+                    "homepage": "https://www.drupal.org/user/678770"
+                },
+                {
+                    "name": "vermario",
+                    "homepage": "https://www.drupal.org/user/121062"
+                }
+            ],
+            "description": "Triggers a build hook on any service provider that supports build hooks.",
+            "homepage": "https://www.drupal.org/project/build_hooks",
+            "support": {
+                "source": "https://git.drupalcode.org/project/build_hooks"
             }
         },
         {
