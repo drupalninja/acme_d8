@@ -7181,16 +7181,16 @@
         },
         {
             "name": "mediacurrent/rain_gatsby",
-            "version": "1.8",
+            "version": "1.9",
             "source": {
                 "type": "git",
                 "url": "https://bitbucket.org/mediacurrent/rain_gatsby.git",
-                "reference": "bbc750f1819e2217a2331f3efa95cd7afafa41a5"
+                "reference": "552d1a1eada42f460d36a78f7a06146ef17962f5"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://bitbucket.org/mediacurrent/rain_gatsby/get/bbc750f1819e2217a2331f3efa95cd7afafa41a5.zip",
-                "reference": "bbc750f1819e2217a2331f3efa95cd7afafa41a5",
+                "url": "https://bitbucket.org/mediacurrent/rain_gatsby/get/552d1a1eada42f460d36a78f7a06146ef17962f5.zip",
+                "reference": "552d1a1eada42f460d36a78f7a06146ef17962f5",
                 "shasum": ""
             },
             "require": {
@@ -7209,7 +7209,7 @@
             ],
             "description": "Kickstart feature to make it easier to integrate Gatsby starter with Rain distribution.",
             "homepage": "https://bitbucket.org/mediacurrent/rain_gatsby",
-            "time": "2019-05-14T15:31:11+00:00"
+            "time": "2019-05-15T17:19:26+00:00"
         },
         {
             "name": "mediacurrent/rain_theme",
